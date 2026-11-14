@@ -1,207 +1,219 @@
- <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Hey+There!+I'm+Shilki+Kumari+%F0%9F%91%8B;Software+Engineer+%7C+Full+Stack+Developer;Building+Scalable+%26+Reliable+Applications;Turning+Ideas+Into+Reality+%F0%9F%9A%80" />
+<!-- ================= PROFILE HEADER ================= -->
 
-### Software Engineer | .NET Backend | Full Stack Development
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Hey+There!+I'm+Shilki+Kumari+%F0%9F%91%8B;Software+Engineer+%7C+Full+Stack+Developer;Building+Scalable+%26+Reliable+Applications;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
+
+<h3>Software Engineer | .NET Backend | Full Stack Development</h3>
+
+<img src="https://komarev.com/ghpvc/?username=shilk13github&label=Profile%20Views&color=8B5CF6&style=flat" alt="Profile Views" />
+
+<img src="https://img.shields.io/github/followers/shilk13github?label=Followers&style=social" alt="GitHub Followers" />
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=shilk13github&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/shilk13github?label=FOLLOWERS&style=for-the-badge&color=2563EB" />
-</p>
-
 <a href="https://www.linkedin.com/in/shilki-kumari-1383a6234/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:shilkikaushik132002@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/shilk13github">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+</p>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding Animation" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<!-- ================= ABOUT ME ================= -->
+
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ## 👩‍💻 About Me
 
-Hello! I'm **Shilki Kumari**, a Software Engineer passionate about designing and developing scalable, secure, and high-performance applications.
+I'm a Software Engineer passionate about building scalable web applications and reliable backend systems.
 
-I enjoy transforming complex business requirements into reliable software solutions, with a strong focus on backend engineering and full-stack development.
-
-- 💻 Professional experience in software development.
-- ⚙️ Specializing in C#, ASP.NET Core and RESTful APIs.
-- 🚀 Experience building real-time systems using SignalR.
-- 🗄️ Skilled in SQL Server, MySQL and database design.
-- 🔐 Experience with JWT authentication and Role-Based Access Control.
-- ☁️ Worked with Azure services, Azure Blob Storage and AWS.
-- 🌱 Continuously exploring better software architecture and engineering practices.
+- 💻 Experienced in **.NET Core, C#, React, and SQL Server**.
+- 🚀 Interested in backend engineering, API development, and real-time applications.
+- 🔐 Focused on developing secure and high-performance applications.
+- ☁️ Experience with cloud integration and Azure services.
+- 🧩 Enjoy solving engineering challenges and improving application performance.
+- 🌱 Always learning and exploring new technologies.
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Technical Arsenal
+<!-- ================= TECH STACK ================= -->
 
-<div align="center">
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 
+<p>
 <img src="https://skillicons.dev/icons?i=cs,java,js,python" />
+</p>
 
-### ⚙️ Frameworks & Libraries
+### Frameworks & Technologies
 
+<p>
 <img src="https://skillicons.dev/icons?i=dotnet,react,angular,html,css,bootstrap" />
+</p>
 
-### 🗄️ Databases & Cloud
+### Databases & Cloud
 
+<p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,azure,aws" />
+</p>
 
-### 🔧 Development Tools
+### Tools & Platforms
 
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" />
+</p>
 
-</div>
+**Additional Technologies:**
 
-**Additional Technologies:** ASP.NET Web API, MVC, SignalR, LINQ, jQuery, AJAX, PowerShell, PySpark, Azure SQL and SQL Server Management Studio.
+`ASP.NET Core` · `ASP.NET Web API` · `MVC` · `SignalR` · `LINQ` · `jQuery` · `AJAX` · `PowerShell` · `PySpark` · `Azure SQL` · `SQL Server` · `Azure Blob Storage`
 
 ---
+
+<!-- ================= EXPERIENCE ================= -->
 
 ## 💼 Professional Experience
 
-### 🚀 Software Engineer
-**Cloud Garner Solutions Pvt. Ltd.**
+### 🚀 Software Engineer — Cloud Garner Solutions Pvt. Ltd.
+**January 2025 – March 2026 | Ranchi, India**
 
-`January 2025 – March 2026`
+Worked on backend development, API integrations, database design, and real-time application features across multiple projects.
 
-**01. Fertility App | Healthcare Technology**
+#### 🩺 Fertility App
+**April 2025 – December 2025**
 
-- Developed backend services for period tracking, pregnancy, IVF, IUI and egg-freezing workflows.
-- Designed secure RESTful APIs for user data, health tracking and notifications.
-- Integrated email notifications, deep linking and subscription payment gateways.
-- Designed scalable database schemas for health-related data.
+- Developed backend functionality for period tracking, pregnancy, IVF, IUI, and egg-freezing workflows.
+- Designed and implemented secure REST APIs.
+- Integrated email notifications and deep-linking functionality.
+- Implemented subscription management and payment gateway integrations.
+- Designed scalable database schemas to support application workflows.
 
-**02. Urban Education Platform | Real-Time Systems**
+#### 🎓 Urban Education Platform
+**January 2026 – February 2026**
 
-- Developed a platform to automate staffing workflows in education systems.
-- Built real-time bidding functionality using SignalR and concurrency handling.
-- Implemented seniority-based ranking algorithms with complex business rules.
-- Developed Role-Based Access Control (RBAC) and dynamic dashboards.
-- Integrated Zoom SDK and implemented audit logging.
+- Developed staffing and recruitment workflows.
+- Implemented real-time bidding functionality using **SignalR**.
+- Handled concurrency-related challenges in real-time operations.
+- Developed a seniority-based ranking algorithm.
+- Implemented role-based access control and dynamic dashboards.
+- Integrated Zoom SDK functionality.
+- Worked on audit logging and activity tracking.
 
-**03. HoundHeart | Full Stack Application**
+#### 🐾 HoundHeart App
+**February 2026 – March 2026**
 
-- Developed a wellness application using React, .NET Core and MySQL.
-- Implemented REST APIs and JWT authentication.
-- Integrated Stripe payments and Azure Blob Storage.
-- Built user–pet engagement scoring, community features and memory journal functionality.
-
-### 💻 Full Stack Development Intern
-**HashedBit Innovation Pvt. Ltd.**
-
-`April 2024 – June 2024`
-
-- Developed responsive web applications using the MERN stack.
-- Built and integrated RESTful APIs for frontend-backend communication.
-- Collaborated using Git and Agile development methodologies.
-- Worked on debugging and code optimization.
-
-### 🌐 Web Developer Intern
-**Dzinex Technologies Pvt. Ltd.**
-
-`June 2021 – July 2021`
-
-- Developed modular and reusable components using HTML, CSS, JavaScript and Python.
-- Built responsive, cross-browser user interfaces.
-- Assisted with debugging, testing and performance improvements.
+- Developed application features using **React, .NET Core, and MySQL**.
+- Implemented secure authentication using JWT.
+- Designed and developed REST APIs.
+- Integrated Stripe payment functionality.
+- Implemented Azure Blob Storage for file management.
+- Worked on Bonded Score, community features, and memory journal functionality.
 
 ---
 
-## 🌟 Featured Projects
+### 💻 Full Stack Development Intern — HashedBit Innovation Pvt. Ltd.
+**April 2024 – June 2024**
+
+- Developed responsive web applications using the MERN stack.
+- Built and integrated REST APIs.
+- Worked with Git and Agile development practices.
+- Improved application performance through debugging and code optimization.
+
+---
+
+### 🌐 Web Developer Intern — Dzinex Technologies Pvt. Ltd.
+**June 2021 – July 2021**
+
+- Developed responsive web interfaces using HTML, CSS, JavaScript, and Python.
+- Focused on modular and maintainable code.
+- Worked on cross-browser compatibility.
+- Performed debugging, testing, and performance improvements.
+
+---
+
+<!-- ================= FEATURED PROJECTS ================= -->
+
+## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/shilk13github/business_auto_pilot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shilk13github&repo=business_auto_pilot&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shilk13github&repo=business_auto_pilot&theme=tokyonight&hide_border=true" alt="Business Auto Pilot" />
 </a>
-
-</div>
 
 *More projects and engineering experiments coming soon!*
 
+</div>
+
 ---
+
+<!-- ================= GITHUB ANALYTICS ================= -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shilk13github&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shilk13github&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shilk13github&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shilk13github&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<br/><br/>
+<br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=shilk13github&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shilk13github&theme=tokyo-night&hide_border=true)](https://github.com/shilk13github)
+<img src="https://streak-stats.demolab.com?user=shilk13github&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 
 </div>
 
 ---
 
-## 📈 GitHub Contribution Graph
-
----
+<!-- ================= CONTRIBUTION GRAPH ================= -->
 
 ## 📈 GitHub Contribution Graph
 
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shilk13github&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true&custom_title=Shilki%27s%20Contribution%20Graph"
-    width="100%"
-    alt="Shilki's GitHub Contribution Graph"
-  />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shilk13github&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true&custom_title=Shilki%27s%20Contribution%20Graph" width="100%" alt="Shilki's GitHub Contribution Graph" />
+
 </div>
 
 ---
+
+<!-- ================= EDUCATION ================= -->
 
 ## 🎓 Education
 
-<div align="center">
-
-| Qualification | Institution | Academic Score |
-|:---|:---|:---:|
-| 🎓 MCA (2022–2024) | Dr. Shyama Prasad Mukherjee University | 8.90 CGPA |
-| 🎓 BCA (2019–2022) | Ranchi Women's College | 8.23 CGPA |
-
-</div>
+| Degree | Institution | Year | CGPA |
+|:---|:---|:---:|:---:|
+| MCA | Dr. Shyama Prasad Mukherjee University, Ranchi | 2022–2024 | 8.90 |
+| BCA | Ranchi Women's College | 2019–2022 | 8.23 |
 
 ---
 
-## 🤝 Let's Connect
+<!-- ================= CONNECT ================= -->
+
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/shilki-kumari-1383a6234/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="mailto:shilkikaushik132002@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-shilkikaushik132002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <a href="https://github.com/shilk13github">
-<img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
@@ -210,10 +222,8 @@ I enjoy transforming complex business requirements into reliable software soluti
 
 <div align="center">
 
-### 💜 Code. Create. Innovate. Repeat.
+### 💜 Thanks for visiting my profile!
 
-*Building meaningful software, solving real-world problems, and growing with every commit.*
-
-**Thanks for visiting my GitHub profile!** ⭐
+**Building. Learning. Improving. One commit at a time. 🚀**
 
 </div>
