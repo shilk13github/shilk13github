@@ -1,137 +1,193 @@
  <div align="center">
 
-# 👋 Hi, I'm Shilki Kumari
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Hey+There!+I'm+Shilki+Kumari+%F0%9F%91%8B;Software+Engineer+%7C+Full+Stack+Developer;Building+Scalable+%26+Reliable+Applications;Turning+Ideas+Into+Reality+%F0%9F%9A%80" />
 
-### 💻 Software Engineer | Full Stack Developer
+<br/>
 
-**Building Scalable Applications • Backend Engineering • Real-Time Systems**
+### Software Engineer | .NET Backend | Full Stack Development
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=shilk13github&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/shilk13github?label=FOLLOWERS&style=for-the-badge&color=2563EB" />
+</p>
 
-### 🚀 Code. Create. Innovate. Repeat.
+<a href="https://www.linkedin.com/in/shilki-kumari-1383a6234/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:shilkikaushik132002@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/shilk13github">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="Coding Animation" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
-- 🔭 Software Engineer with professional experience in full-stack development.
-- 💡 Passionate about building scalable and secure web applications.
-- ⚙️ Experienced in **C#, .NET Core, SQL Server and React**.
-- 🚀 Built real-time applications using SignalR and concurrency handling.
-- ☁️ Worked with Azure services, AWS and cloud integrations.
-- 🔐 Interested in API architecture, authentication and system design.
-- 🌱 Constantly learning, building and improving my engineering skills.
-- 🎯 Focused on writing clean, maintainable and efficient code.
+Hello! I'm **Shilki Kumari**, a Software Engineer passionate about developing scalable, secure, and high-performance applications.
+
+I enjoy transforming complex business requirements into reliable software solutions, with a strong focus on backend engineering and full-stack development.
+
+- 💻 Experienced in professional software development.
+- ⚙️ Specializing in C#, ASP.NET Core and RESTful APIs.
+- 🚀 Experience building real-time systems using SignalR.
+- 🗄️ Skilled in SQL Server, MySQL and database design.
+- 🔐 Experience with JWT authentication and Role-Based Access Control.
+- ☁️ Worked with Azure services, Azure Blob Storage and AWS.
+- 🌱 Continuously exploring better software architecture and engineering practices.
 
 <br clear="right"/>
 
 ---
 
-### 🛠️ Languages & Technologies
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
-#### 💻 Programming Languages
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=cs,java,js,python,html,css" />
+<img src="https://skillicons.dev/icons?i=cs,java,js,python" />
 
-#### ⚙️ Frameworks & Development
+### ⚙️ Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=dotnet,react,angular,bootstrap,jquery" />
+<img src="https://skillicons.dev/icons?i=dotnet,react,angular,html,css,bootstrap" />
 
-#### 🗄️ Databases & Cloud
+### 🗄️ Databases & Cloud
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,azure,aws" />
 
-#### 🔧 Tools & Platforms
+### 🔧 Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" />
 
 </div>
 
+**Additional Technologies:** ASP.NET Web API, MVC, SignalR, LINQ, jQuery, AJAX, PowerShell, PySpark, Azure SQL and SQL Server Management Studio.
+
 ---
 
-### 💼 Professional Experience
+## 💼 Professional Experience
 
-**Software Engineer — Cloud Garner Solutions Pvt. Ltd.**
+### 🚀 Software Engineer
+**Cloud Garner Solutions Pvt. Ltd.**
 
-`January 2025 – March 2026`
+<text>January 2025 – March 2026</text>
 
-- **Fertility App:** Backend APIs, health tracking, notifications, subscription payments and database design.
-- **Urban Education Platform:** Real-time bidding with SignalR, concurrency handling, ranking algorithms, RBAC and Zoom SDK integration.
-- **HoundHeart App:** Full-stack development using React, .NET Core and MySQL, JWT authentication, Stripe and Azure Blob Storage.
+**01. Fertility App | Healthcare Technology**
 
-**Full Stack Development Intern — HashedBit Innovation Pvt. Ltd.**
+- Developed backend services for period tracking, pregnancy, IVF, IUI and egg-freezing workflows.
+- Designed secure RESTful APIs for user data, health tracking and notifications.
+- Integrated email notifications, deep linking and subscription payment gateways.
+- Designed scalable database schemas for health-related data.
+
+**02. Urban Education Platform | Real-Time Systems**
+
+- Developed a platform to automate staffing workflows in education systems.
+- Built real-time bidding functionality using SignalR and concurrency handling.
+- Implemented seniority-based ranking algorithms with complex business rules.
+- Developed Role-Based Access Control (RBAC) and dynamic dashboards.
+- Integrated Zoom SDK and implemented audit logging.
+
+**03. HoundHeart | Full Stack Application**
+
+- Developed a wellness application using React, .NET Core and MySQL.
+- Implemented REST APIs and JWT authentication.
+- Integrated Stripe payments and Azure Blob Storage.
+- Built user–pet engagement scoring, community features and memory journal functionality.
+
+### 💻 Full Stack Development Intern
+**HashedBit Innovation Pvt. Ltd.**
 
 `April 2024 – June 2024`
 
-- Developed responsive applications using the MERN stack.
-- Built and integrated RESTful APIs.
-- Collaborated using Git and Agile methodologies.
+- Developed responsive web applications using the MERN stack.
+- Built and integrated RESTful APIs for frontend-backend communication.
+- Collaborated using Git and Agile development methodologies.
+- Worked on debugging and code optimization.
 
-**Web Developer Intern — Dzinex Technologies Pvt. Ltd.**
+### 🌐 Web Developer Intern
+**Dzinex Technologies Pvt. Ltd.**
 
 `June 2021 – July 2021`
 
-- Developed modular applications using HTML, CSS, JavaScript and Python.
-- Worked on responsive interfaces, debugging and optimization.
+- Developed modular and reusable components using HTML, CSS, JavaScript and Python.
+- Built responsive, cross-browser user interfaces.
+- Assisted with debugging, testing and performance improvements.
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| Fertility App | Healthcare tracking and subscription platform | .NET, SQL Server |
-| Urban Education Platform | Staffing automation and real-time bidding | .NET, SignalR |
-| HoundHeart | Pet wellness and community application | React, .NET, MySQL |
-
----
-
-### 📊 GitHub Statistics
+## 🌟 Featured Projects
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/shilk13github/business_auto_pilot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shilk13github&repo=business_auto_pilot&theme=tokyonight&hide_border=true" />
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-<br/>
+*More projects and engineering experiments coming soon!*
 
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shilk13github&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shilk13github&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=shilk13github&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-### 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shilk13github&theme=tokyo-night&hide_border=true)](https://github.com/shilk13github)
 
 </div>
 
 ---
 
-### 🤝 Connect With Me
+## 🎓 Education
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+| Qualification | Institution | Academic Score |
+|:---|:---|:---:|
+| 🎓 MCA (2022–2024) | Dr. Shyama Prasad Mukherjee University | 8.90 CGPA |
+| 🎓 BCA (2019–2022) | Ranchi Women's College | 8.23 CGPA |
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shilki-kumari-1383a6234/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:shilkikaushik132002@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+<a href="https://github.com/shilk13github">
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -140,10 +196,10 @@
 
 <div align="center">
 
-### ✨ Eat • Code • Debug • Build • Repeat ✨
+### 💜 Code. Create. Innovate. Repeat.
 
-**Thanks for visiting my profile!**
+*Building meaningful software, solving real-world problems, and growing with every commit.*
 
-⭐ Feel free to explore my repositories and connect with me.
+**Thanks for visiting my GitHub profile!** ⭐
 
 </div>
