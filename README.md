@@ -2,23 +2,21 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Hey+There!+I'm+Shilki+Kumari+%F0%9F%91%8B;Software+Engineer+%7C+Full+Stack+Developer;Building+Scalable+%26+Reliable+Applications;Turning+Ideas+Into+Reality+%F0%9F%9A%80" />
 
-<br/>
-
 ### Software Engineer | .NET Backend | Full Stack Development
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=shilk13github&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/shilk13github?label=FOLLOWERS&style=for-the-badge&color=2563EB" />
+<img src="https://komarev.com/ghpvc/?username=shilk13github&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/shilk13github?label=FOLLOWERS&style=for-the-badge&color=2563EB" />
 </p>
 
 <a href="https://www.linkedin.com/in/shilki-kumari-1383a6234/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:shilkikaushik132002@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/shilk13github">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -29,11 +27,11 @@
 
 ## 👩‍💻 About Me
 
-Hello! I'm **Shilki Kumari**, a Software Engineer passionate about developing scalable, secure, and high-performance applications.
+Hello! I'm **Shilki Kumari**, a Software Engineer passionate about designing and developing scalable, secure, and high-performance applications.
 
 I enjoy transforming complex business requirements into reliable software solutions, with a strong focus on backend engineering and full-stack development.
 
-- 💻 Experienced in professional software development.
+- 💻 Professional experience in software development.
 - ⚙️ Specializing in C#, ASP.NET Core and RESTful APIs.
 - 🚀 Experience building real-time systems using SignalR.
 - 🗄️ Skilled in SQL Server, MySQL and database design.
@@ -76,7 +74,7 @@ I enjoy transforming complex business requirements into reliable software soluti
 ### 🚀 Software Engineer
 **Cloud Garner Solutions Pvt. Ltd.**
 
-<text>January 2025 – March 2026</text>
+`January 2025 – March 2026`
 
 **01. Fertility App | Healthcare Technology**
 
@@ -126,7 +124,7 @@ I enjoy transforming complex business requirements into reliable software soluti
 <div align="center">
 
 <a href="https://github.com/shilk13github/business_auto_pilot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shilk13github&repo=business_auto_pilot&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shilk13github&repo=business_auto_pilot&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -161,6 +159,16 @@ I enjoy transforming complex business requirements into reliable software soluti
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
 ## 🎓 Education
 
 <div align="center">
@@ -179,15 +187,15 @@ I enjoy transforming complex business requirements into reliable software soluti
 <div align="center">
 
 <a href="https://www.linkedin.com/in/shilki-kumari-1383a6234/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:shilkikaushik132002@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-shilkikaushik132002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/shilk13github">
-  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
