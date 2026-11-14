@@ -181,11 +181,16 @@ Worked on backend development, API integrations, database design, and real-time 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shilk13github&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true&custom_title=Shilki%27s%20Contribution%20Graph" width="100%" alt="Shilki's GitHub Contribution Graph" />
+<img
+  src="https://ghchart.rshah.org/8B5CF6/shilk13github"
+  alt="Shilki's GitHub Contribution Graph"
+  width="100%"
+/>
 
 </div>
 
 ---
+
 
 <!-- ================= EDUCATION ================= -->
 
