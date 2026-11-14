@@ -143,12 +143,25 @@ Worked on backend development, API integrations, database design, and real-time 
 
 <!-- ================= FEATURED PROJECTS ================= -->
 
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/shilk13github/business_auto_pilot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shilk13github&repo=business_auto_pilot&theme=tokyonight&hide_border=true" alt="Business Auto Pilot" />
+
+<img src="https://img.shields.io/badge/PROJECT-BUSINESS_AUTO_PILOT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+
+</a>
+
+### 💼 Business Auto Pilot
+
+Explore the source code, implementation, and development progress.
+
+<a href="https://github.com/shilk13github/business_auto_pilot">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 *More projects and engineering experiments coming soon!*
@@ -156,6 +169,7 @@ Worked on backend development, API integrations, database design, and real-time 
 </div>
 
 ---
+
 
 <!-- ================= GITHUB ANALYTICS ================= -->
 
