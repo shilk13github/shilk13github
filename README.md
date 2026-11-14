@@ -159,21 +159,36 @@ Worked on backend development, API integrations, database design, and real-time 
 
 <!-- ================= GITHUB ANALYTICS ================= -->
 
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shilk13github&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img
+  height="180"
+  src="https://github-stats-extended.vercel.app/api?username=shilk13github&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  alt="Shilki's GitHub Stats"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shilk13github&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img
+  height="180"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=shilk13github&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Shilki's Top Languages"
+/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=shilk13github&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+<img
+  src="https://streak-stats.demolab.com?user=shilk13github&theme=tokyonight&hide_border=true"
+  alt="Shilki's GitHub Streak"
+/>
 
 </div>
 
 ---
+
 
 <!-- ================= CONTRIBUTION GRAPH ================= -->
 
