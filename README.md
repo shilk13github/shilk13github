@@ -1,103 +1,149 @@
-# Hi, I'm Shilki Kumari 👋
+ <div align="center">
 
-### Software Engineer | Full Stack Developer | Backend Engineering
+# 👋 Hi, I'm Shilki Kumari
 
-I'm a Software Engineer passionate about building scalable, secure, and high-performance web applications. I specialize in backend development using **.NET Core, C#, SQL Server**, and modern frontend technologies like **React**.
+### 💻 Software Engineer | Full Stack Developer
 
-I enjoy solving real-world engineering problems, designing RESTful APIs, building real-time systems, and developing reliable software solutions.
+**Building Scalable Applications • Backend Engineering • Real-Time Systems**
 
----
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME)
 
-### 🚀 About Me
+### 🚀 Code. Create. Innovate. Repeat.
 
-- 💻 Software Engineer with professional experience in full-stack development.
-- ⚙️ Experienced in building RESTful APIs and scalable backend services.
-- 🔐 Interested in secure application development, authentication, and RBAC.
-- ⚡ Worked on real-time applications using SignalR and concurrency handling.
-- ☁️ Experience with Microsoft Azure, Azure Blob Storage, and AWS.
-- 🌱 Continuously learning and improving my software engineering skills.
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-**Languages**
-- C#, Java, JavaScript, Python, PySpark
+### 👩‍💻 About Me
 
-**Backend Development**
-- ASP.NET Core
-- ASP.NET Web API
-- MVC
-- SignalR
-- LINQ
-- .NET Framework
+- 🔭 Software Engineer with professional experience in full-stack development.
+- 💡 Passionate about building scalable and secure web applications.
+- ⚙️ Experienced in **C#, .NET Core, SQL Server and React**.
+- 🚀 Built real-time applications using SignalR and concurrency handling.
+- ☁️ Worked with Azure services, AWS and cloud integrations.
+- 🔐 Interested in API architecture, authentication and system design.
+- 🌱 Constantly learning, building and improving my engineering skills.
+- 🎯 Focused on writing clean, maintainable and efficient code.
 
-**Frontend Development**
-- React.js
-- Angular (Basic)
-- HTML5, CSS3
-- Bootstrap
-- jQuery, AJAX
+<br clear="right"/>
 
-**Databases**
-- Microsoft SQL Server
-- Azure SQL
-- MySQL
-- MongoDB
-- RDBMS / NoSQL
+---
 
-**Cloud & Tools**
-- Microsoft Azure
-- Azure Blob Storage
-- AWS
-- Git & GitHub
-- Visual Studio
-- SQL Server Management Studio
+### 🛠️ Languages & Technologies
+
+<div align="center">
+
+#### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=cs,java,js,python,html,css" />
+
+#### ⚙️ Frameworks & Development
+
+<img src="https://skillicons.dev/icons?i=dotnet,react,angular,bootstrap,jquery" />
+
+#### 🗄️ Databases & Cloud
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,azure,aws" />
+
+#### 🔧 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" />
+
+</div>
 
 ---
 
 ### 💼 Professional Experience
 
-**Software Engineer | Cloud Garner Solutions Pvt. Ltd.**
-*January 2025 – March 2026*
+**Software Engineer — Cloud Garner Solutions Pvt. Ltd.**
 
-Worked on multiple production-oriented applications:
+`January 2025 – March 2026`
 
-**1. Fertility App**
-- Developed backend services for period tracking, pregnancy, IVF, IUI, and egg-freezing workflows.
-- Built secure REST APIs and notification services.
-- Integrated payment gateways, subscriptions, and deep linking.
-- Designed database schemas for health-related data.
+- **Fertility App:** Backend APIs, health tracking, notifications, subscription payments and database design.
+- **Urban Education Platform:** Real-time bidding with SignalR, concurrency handling, ranking algorithms, RBAC and Zoom SDK integration.
+- **HoundHeart App:** Full-stack development using React, .NET Core and MySQL, JWT authentication, Stripe and Azure Blob Storage.
 
-**2. Urban Education Platform**
-- Developed staffing workflow automation.
-- Implemented real-time bidding using SignalR.
-- Built seniority-based ranking algorithms.
-- Implemented RBAC, dynamic dashboards, Zoom SDK integration, and audit logging.
+**Full Stack Development Intern — HashedBit Innovation Pvt. Ltd.**
 
-**3. HoundHeart App**
-- Developed a full-stack wellness application using React, .NET Core, and MySQL.
-- Implemented JWT authentication and REST APIs.
-- Integrated Stripe payments and Azure Blob Storage.
-- Developed community features and a user–pet engagement scoring system.
+`April 2024 – June 2024`
+
+- Developed responsive applications using the MERN stack.
+- Built and integrated RESTful APIs.
+- Collaborated using Git and Agile methodologies.
+
+**Web Developer Intern — Dzinex Technologies Pvt. Ltd.**
+
+`June 2021 – July 2021`
+
+- Developed modular applications using HTML, CSS, JavaScript and Python.
+- Worked on responsive interfaces, debugging and optimization.
 
 ---
 
-### 🎓 Education
+### 🚀 Featured Projects
 
-| Qualification | Institution | Score |
+| Project | Description | Technologies |
 |---|---|---|
-| MCA (2022–2024) | Dr. Shyama Prasad Mukherjee University | 8.90 CGPA |
-| BCA (2019–2022) | Ranchi Women's College | 8.23 CGPA |
+| Fertility App | Healthcare tracking and subscription platform | .NET, SQL Server |
+| Urban Education Platform | Staffing automation and real-time bidding | .NET, SignalR |
+| HoundHeart | Pet wellness and community application | React, .NET, MySQL |
 
 ---
 
-### 📫 Connect With Me
+### 📊 GitHub Statistics
 
-- 📧 Email: shilkikaushik132002@gmail.com
-- 💼 LinkedIn: Add LinkedIn profile URL
-- 🐙 GitHub: Add GitHub profile URL
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-⭐ *Building meaningful software, solving engineering challenges, and growing one commit at a time.*
+### 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+
+</div>
+
+---
+
+### 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:shilkikaushik132002@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Eat • Code • Debug • Build • Repeat ✨
+
+**Thanks for visiting my profile!**
+
+⭐ Feel free to explore my repositories and connect with me.
+
+</div>
